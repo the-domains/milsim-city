@@ -1,14 +1,29 @@
+name: MilSim City
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.9017185
+title: 'Indoor Training Facility '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6294687
-  lightness: 0.5622986
-  brandStrength: 0.7076148
   brandColors:
     - '#1C1D1F'
     - '#48484A'
     - '#797778'
     - '#E4DAD9'
     - '#9E989A'
+  brandStrength: 0.7076148
+  lightness: 0.5622986
+  saturation: 0.6294687
   rhythmicContrast: 0.9673181
-name: MilSim City
+purpose: []
