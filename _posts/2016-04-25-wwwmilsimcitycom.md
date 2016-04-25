@@ -1,16 +1,32 @@
 ---
-title: www.milsimcity.com
-datePublished: '2016-04-25T16:51:07.409Z'
-dateModified: '2016-04-25T16:49:16.570Z'
-author: []
-description: ''
-starred: true
-sourcePath: _posts/2016-04-25-wwwmilsimcitycom.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: INDOOR TRAINING FACILITY
+datePublished: '2016-04-25T17:30:00.668Z'
+dateModified: '2016-04-25T17:29:59.710Z'
+title: ' '
+author: []
+sourcePath: _posts/2016-04-25-wwwmilsimcitycom.md
+published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
+_type: Blurb
 
 ---
-# www.milsimcity.com
+# [MilSim City ][0]
+
+INDOOR TRAINING FACILITY
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6459353-55ca-4294-87e0-48faf7f41cfc.jpg)
+
+# 
+
+[0]: www.milsimcity.com
